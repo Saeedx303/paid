@@ -647,3 +647,21 @@ nav{
     max-width: 375px;
   }
 }
+
+
+
+
+
+.head-menu{
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    overflow: hidden;
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(assets/bg-hero.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
